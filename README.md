@@ -10,7 +10,7 @@ This repository contains the complete documentation and implementation of analog
 
 | Folder/File | Description |
 | :--- | :--- |
-| `/FrontEnd` | The design of a circuit in sschematic level. This includes circuit specification, characterization, simulation and verification. Front design requires a strong theoretical thinking in electronic physics and semiconductor to ensure a good performance and efficiency of the circuit designed. |
+| `/FrontEnd` | The design of a circuit in schematic level. This includes circuit specification, characterization, simulation and verification. Front design requires a strong theoretical thinking in electronic physics and semiconductor to ensure a good performance and efficiency of the circuit designed. |
 | `/Backend` | The design flow of turning schematic design into manufacturable layout design. This includes floorplanning, circuit routing, physical verification (DRC, LVS, PEX), post-layout simulation and GDSII file format.|
 | `/Slides` | Presentation slides to describe the circuits designed. |
 | `/MyNote` | My analog IC design notes and look-up table for circuit characterization |
