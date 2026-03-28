@@ -30,8 +30,8 @@ The design flow is executed using the **Synopsys Custom Design Platform**. The m
 ---
 
 ## 🛠 Tech Stack
-* **EDA Tools:** Synopsys (Custom Compiler, HSPICE, FineSim, IC Validator)
+* **EDA Tools:** Synopsys (Custom Compiler, HSPICE, IC Validator)
 * **Process Node:** [e.g., 180nm / 65nm / 28nm] Generic PDK
-* **Key Circuits:** [e.g., Operational Amplifiers, Bandgap References, LDO Regulators]
+* **Key Circuits:** [e.g., Current Mirror, Ring Oscillator, Operational Amplifiers, Bandgap References, LDO Regulators]
 
 ---
