@@ -1,6 +1,6 @@
 # Analog IC Design: IC design Lab & Project Portfolio
 
-[![EDA Tool: Synopsys](https://www.synopsys.com/company/legal/trademarks-brands.html)]()
+[![EDA Tool: Synopsys](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ9mFDDdvjcSViTlgv-i3oj6eyja5o1OoeLiA&s)]()
 
 ## 📌 Overview
 This repository contains the complete documentation and implementation of analog circuit design and layout.
