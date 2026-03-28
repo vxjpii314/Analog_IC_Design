@@ -3,7 +3,7 @@
 
 
 ## 📌 Overview
-This repository contains the complete documentation and implementation of analog circuit design and layout. The project 
+This repository contains the complete documentation and implementation of analog circuit design and layout.
 ---
 
 ## 📂 Repository Structure
